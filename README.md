@@ -1,3 +1,7 @@
+**NOTE:
+internsctl (bash script)
+internsctl-man.gz (man file)**
+
 # internsctl
 internsctl command tool for linux
 written By: Isha Atri
