@@ -25,3 +25,11 @@ internsctl memory getinfo
 internsctl user create john_doe
 internsctl user list --sudo-only
 internsctl file getinfo --size --permissions example.txt
+
+
+----------------------------------------------------------
+Put the internsctl-man file in /usr/share/man/man1
+and run below command,
+    $ man internsctl
+----------------------------------------------------------
+
